@@ -1,2 +1,2 @@
+rootProject.name = "Snapshots"
 include ':app'
-rootProject.name = "Stores"
